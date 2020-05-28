@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="19d672b59ad3b13f9ac2baaf55e494dee7f52530" datatype="html">
+        <source>Russian Consulting Advisory</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/nav/nav.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2d2a8e1bd80f8755df9683c97b8f7e3931b41f3c" datatype="html">
+        <source>Company Formation</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/nav/nav.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/company-formation/company-formation.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="70089f3cd283154b0151564eed1efabc3b35b9ff" datatype="html">
+        <source>Accounting</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/nav/nav.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="64a95dd7fe16b2182b5023e64d6f1bd0db07d735" datatype="html">
+        <source>Payroll</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/nav/nav.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payroll/payroll.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34439c9c5cc9912b2d0025c71089ddf9bc865d84" datatype="html">
+        <source>Marketing Services (soon)</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/nav/nav.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a6349946ca77a40d831c498384397a9b01025d58" datatype="html">
+        <source>Business advices</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/nav/nav.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="43965e7561fecc51b98e5b977d139370d276d497" datatype="html">
+        <source>Our mission</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/landing/landing.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f73eb75c09f861b6aa934b242063478c28e45bb0" datatype="html">
+        <source>Creating a healthy business environment.
+        Search for optimal solutions.
+        Harmonious, cultural and modern approach to business.
+        Maximize the use of modern business and legal achievements.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/landing/landing.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f6a8cb2287c0c738d3d02ca36e145830c9734db5" datatype="html">
+        <source>Who we are</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/landing/landing.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b8602f4bade5bd2b6421e424adcdd75850141f44" datatype="html">
+        <source>Our headquarters is located in Russia, St. Petersburg.
+        Our connections are worldwide. We are interested in your business being reliable, stable and profitable.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/landing/landing.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6e8d3b518ff70956197265ede2b55f99b201ab76" datatype="html">
+        <source>Contact us</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/landing/landing.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4c94938ce417b0cad7b98713457e07587dd1e53b" datatype="html">
+        <source>Need assistance? (mon - fri
+        8 am to 6 pm): 8 931 969 8891</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/landing/landing.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9cbfee40986642037275fa34594be4c6ac127726" datatype="html">
+        <source>Business Registration</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/company-formation/company-formation.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3654097a1acf7a237aa55de13b6972b98f2d85b1" datatype="html">
+        <source>LLC - 1500 EUR (other type of ownership on request).</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/company-formation/company-formation.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0eb5f7a4631440367aa2c9c3375e1039fa4b5ba3" datatype="html">
+        <source>You  get:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/company-formation/company-formation.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="69d5e305fe87134bb12e43bb228652439d634faf" datatype="html">
+        <source>
+          Package of documents of state registration
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/company-formation/company-formation.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1d40eb30603e48a566109d0f7b9b7f87727be641" datatype="html">
+        <source>
+          An agreement with the Pension Fund
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/company-formation/company-formation.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5fe8f03ba4f0c6d4ef8145d30116cb443a1beeac" datatype="html">
+        <source>
+          Bank account - RUR, EUR, USD
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/company-formation/company-formation.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a8857e2ae1f272b8c5b2d7168602dd6c1a858f38" datatype="html">
+        <source>
+          Translation of documents
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/company-formation/company-formation.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4816ed283005e67a986f81e358562e72674b0e6a" datatype="html">
+        <source>
+          Stamp
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/company-formation/company-formation.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="edbd4c387fa1d4d62bf69c73b52ee8171e372663" datatype="html">
+        <source>Business Liquidation</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/company-formation/company-formation.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e9c219bba72d3004a7539af1ff0270894217500b" datatype="html">
+        <source>From 1000 EUR</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/company-formation/company-formation.component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7a3fa33a6087c54aa1201f33f95e4f1a4afd391d" datatype="html">
+        <source>Liquidation in Russia is a laborious and time-consuming process,
+        an accurate assessment requires a detailed review of the situation.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/company-formation/company-formation.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0eda3ef3d3ccc36f4795f56dfde314b3a117dcbf" datatype="html">
+        <source>Details on request</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/company-formation/company-formation.component.html</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="bf69e6837b33dfd893b09c544c5e74d2ea76eb82" datatype="html">
+        <source>Annual Maintenance</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/company-formation/company-formation.component.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accounting/accounting.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7a2355469e077d24cc917486d65b3fc748179b9c" datatype="html">
+        <source>On the territory of Russia as a whole, the anti-money laundering systems
+        and controls system operates. Also, the state strictly refers to the correct
+        design of addresses and top officials of companies.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/company-formation/company-formation.component.html</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8bd9771c9cc9cf82c659665eeff9437447d41513" datatype="html">
+        <source>
+          Office rent - from 1,000 EUR per year
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/company-formation/company-formation.component.html</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="fcce2cea7c7e181e27834d3cc8ee44cae8eea1e5" datatype="html">
+        <source>
+          Director services - from 300 EUR per month
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/company-formation/company-formation.component.html</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3551db6da84a8f82a0fe36bc9fdcaedec204371" datatype="html">
+        <source>Accounting and Tax Filling</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accounting/accounting.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="81f8b2f8e9fe92d947a22c693a1b16fb730bbc4f" datatype="html">
+        <source>Advantages of accounting and book-keeping services</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accounting/accounting.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="15ce72106c81a2ae808f55663d87ff0963dd5ecf" datatype="html">
+        <source>
+          Getting to know the company’s financial position regularly
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accounting/accounting.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6bd857a08a34fa6411c053058ffb76dec958f8c7" datatype="html">
+        <source>
+          Early revealing of the company’s crises and assisting on seeking solution
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accounting/accounting.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="dfe164efdf4fa2bd6eed6343296c4cde55c1ee8c" datatype="html">
+        <source>
+          Maintaining a clear and systematic system for the company
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accounting/accounting.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5ad1cc005472da9bece03705aa03cb9355527a55" datatype="html">
+        <source>
+          Prevention of misappropriation of the company’s assets
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accounting/accounting.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0a93e02c784a4f9513f337b49e8638fcc39ec4ab" datatype="html">
+        <source>
+          Accounting IFRS - from 100 EUR/quarter
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accounting/accounting.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="398543ebe8be17a45bc2e54f722d46b9315aa14a" datatype="html">
+        <source>
+          Accounting Russian standards - from 100 EUR/quarter
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accounting/accounting.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1f331d0708867cfa028137129baf8b666d6719f2" datatype="html">
+        <source>
+          Accounting Russian standards + IFRS - from 150 EURO/quarter
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accounting/accounting.component.html</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7c83261cc1d03b2f9cf6b68be3cdfc741a64ddc8" datatype="html">
+        <source>
+          Tax filling - from 50 EURO/paper
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accounting/accounting.component.html</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="07d02574be30617015d6855cade45c82aa5e27c1" datatype="html">
+        <source>What we do</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accounting/accounting.component.html</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6d538dfad696ccac7e60f69a32bb481983f1bba9" datatype="html">
+        <source>
+          Computerized accounting records for permanent storage
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accounting/accounting.component.html</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c0520fa0c4f21af9dc161b8189e5160d490bea4b" datatype="html">
+        <source>
+          Prepare General Ledger, Cash account, Bank account, Account receivable and Accounts Payable
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accounting/accounting.component.html</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0c3eb9f013063d07fa7fc298f02403b05e7eb5d2" datatype="html">
+        <source>
+          Preparation of financial statement including Balance Sheet and Income Statement
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accounting/accounting.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="66795a235378a95c37513676de296c1fbfa5ab44" datatype="html">
+        <source>In Russia, salary taxes are: health insurance, pension contributions, social insurance fund.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payroll/payroll.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6f8a0dcc7279dc8c56a9c8d21aec24fe5534b979" datatype="html">
+        <source>For non-residents there are special personnel accounting rules.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payroll/payroll.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="63b0991662663ca53463f14a599e32d4ed75a827" datatype="html">
+        <source>Implementation of personnel records and reporting to state bodies.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payroll/payroll.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="62c6c250cb02937426956b76ce56af5e77b1f8be" datatype="html">
+        <source>Companies up to 10 people</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payroll/payroll.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ddd0d66b864212652d3e8ac8ebec24a1cf56e76e" datatype="html">
+        <source>150 EUR per month.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payroll/payroll.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ab78504e4d09b74dcb5552f61e2f5b1a406ea672" datatype="html">
+        <source>Companies from 10 people</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payroll/payroll.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c8c21d9c2c6160c5962621c8bc77cc2d5a943295" datatype="html">
+        <source>Consider each time individually.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payroll/payroll.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e7d39af15b17ee053cef3ef0ffefb9c1cf647ccd" datatype="html">
+        <source>Business Advice and Legal Issues</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/business-advice/business-advice.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="65051fccb04f0710b784422ed6265d833cda9148" datatype="html">
+        <source>We will help to understand:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/business-advice/business-advice.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e4123acdd80e7c593af700c8c5f54ea535142c86" datatype="html">
+        <source>
+          Migration registration issues
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/business-advice/business-advice.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8d864e42b2b8c74380a8e2a9e0e1fc8318e86962" datatype="html">
+        <source>
+          In the form of business ownership
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/business-advice/business-advice.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c4c72f4a82fbfaef09552518e405bc93bf5b05e0" datatype="html">
+        <source>
+          In order to check contractors, suppliers and customers
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/business-advice/business-advice.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="fb2fa0874861b74870fce770d79b267bc31e71f3" datatype="html">
+        <source>
+          In choosing a tax system
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/business-advice/business-advice.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0d5c11a2728f6e7f7276fe7ce2de27fa4d452fff" datatype="html">
+        <source>
+          In matters of personnel records
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/business-advice/business-advice.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1f5f0853297c8468b5465d3b41c341c5b910887b" datatype="html">
+        <source>
+          In the Software necessary for reporting
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/business-advice/business-advice.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="afb222f20a948ce86e73d5d7b850db04ab51706f" datatype="html">
+        <source>
+          Choosing a bank, acquiring and payment systems
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/business-advice/business-advice.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6d80a195cdbd93d24451f66cfb28facf1b4f25da" datatype="html">
+        <source>
+          Other issues
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/business-advice/business-advice.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c8841c1d8899ccd97d8433465b2f42886084a3f9" datatype="html">
+        <source>Legal Issues</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/business-advice/business-advice.component.html</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3beebd1692747ef1de3452e3620ce9cd92d97840" datatype="html">
+        <source>We represent the interests of companies in state bodies of Russia and in the judicial system.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/business-advice/business-advice.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5ada4b5bec711c89860f54ec6a78513c6bd1dd3c" datatype="html">
+        <source>We also conduct negotiations with Russian financial institutions, as well as with foreign financial
+        institutions that operate in the Russian Federation.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/business-advice/business-advice.component.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

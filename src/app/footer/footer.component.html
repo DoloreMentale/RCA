@@ -1,0 +1,25 @@
+<div class="row animated mt-5">
+  <div
+    class="col-sm-12 flex-column flex-sm-row d-flex justify-content-between text-center shadow bg-white">
+    <div class="col-sm-7">
+      <p class="mt-2"><small translate>Need assistance? (mon - fri 8 am to 6 pm): +7 931 969 8891</small></p>
+
+    </div>
+    <div class="col-sm-3 text-center">
+      <a href="https://t.me/RCA_info"><img src="../../img/telegram.png" class="img-fluid m-1" style="width: 1.5rem"
+                                               alt="Telegram"></a>
+      <a href="https://wa.me/79319698891"><img src="../../img/whatsapp.png" class="img-fluid m-1" style="width: 1.5rem"
+                                               alt="Whatsapp"></a>
+      <a href="https://web.wechat.com/?lang=en_US/wxid_o7dq8fd2kak622"><img src="../../img/wechat.png" class="img-fluid m-1" style="width: 1.5rem"
+                                               alt="WeChat"></a>
+
+      <label>
+        <select class="custom-select ml-3 mt-1" #langSelect (change)="translate.use(langSelect.value)">
+          <option *ngFor="let lang of translate.getLangs()" [value]="lang"
+                  [selected]="lang === translate.currentLang"> {{ lang }}</option>
+        </select>
+      </label>
+    </div>
+
+  </div>
+</div>
