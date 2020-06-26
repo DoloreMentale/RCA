@@ -10,13 +10,13 @@ import {AccountingComponent} from './accounting/accounting.component';
 import {PayrollComponent} from './payroll/payroll.component';
 import {BusinessAdviceComponent} from './business-advice/business-advice.component';
 import {LOCALE_ID, NgModule} from '@angular/core';
-import {FooterComponent} from './footer/footer.component';
 import {registerLocaleData} from '@angular/common';
 import localeZh from '@angular/common/locales/zh';
 import {HttpClient} from '@angular/common/http';
 import {TranslateHttpLoader} from '@ngx-translate/http-loader';
 import {TranslateLoader, TranslateModule} from '@ngx-translate/core';
-import { HttpClientModule } from '@angular/common/http';
+import {HttpClientModule} from '@angular/common/http';
+import { ContactsComponent } from './contacts/contacts.component';
 
 
 const appRoutes: Routes = [
@@ -25,6 +25,7 @@ const appRoutes: Routes = [
   {path: 'accounting', component: AccountingComponent},
   {path: 'payroll', component: PayrollComponent},
   {path: 'business_advice_and_legal_issues', component: BusinessAdviceComponent},
+  {path: 'contacts', component: ContactsComponent},
   {path: '**', redirectTo: '/'}
 ];
 
@@ -52,7 +53,7 @@ export function HttpLoaderFactory(http: HttpClient) {
     AccountingComponent,
     PayrollComponent,
     BusinessAdviceComponent,
-    FooterComponent,
+    ContactsComponent,
   ],
   imports: [
     BrowserModule,

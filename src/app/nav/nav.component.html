@@ -4,17 +4,37 @@
           aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-    <div class="navbar-nav">
+  <div class="collapse navbar-collapse text-center" id="navbarNavAltMarkup">
+    <div class="navbar-nav text-center">
       <a class="nav-item nav-link border-bottom" routerLink="/company_formation" routerLinkActive="active" translate>Company
         Formation</a>
       <a class="nav-item nav-link border-bottom" routerLink="/accounting" routerLinkActive="active"
          translate>Accounting</a>
       <a class="nav-item nav-link border-bottom" routerLink="/payroll" routerLinkActive="active" translate>Payroll</a>
-      <a class="nav-item nav-link border-bottom disabled" routerLinkActive="active" translate>Marketing Services
-        (soon)</a>
       <a class="nav-item nav-link border-bottom" routerLink="/business_advice_and_legal_issues"
          routerLinkActive="active" translate>Business Advices</a>
+      <a class="nav-item nav-link border-bottom" routerLink="/contacts" routerLinkActive="active" translate>Contacts</a>
     </div>
+
+    <span class="ml-auto mr-3">
+      <a href="https://t.me/RCA_info"><img src="../../img/telegram.png" class="img-fluid m-1" style="width: 1.5rem"
+                                           alt="Telegram"></a>
+      <a href="https://wa.me/79319698891"><img src="../../img/whatsapp.png" class="img-fluid m-1" style="width: 1.5rem"
+                                             alt="Whatsapp"></a>
+      <a href="https://web.wechat.com/?lang=en_US/wxid_o7dq8fd2kak622"><img src="../../img/wechat.png"
+                                                                          class="img-fluid m-1"
+                                                                          style="width: 1.5rem"
+                                                                          alt="WeChat"></a>
+
+    <label>
+      <select class="custom-select ml-3 mt-1" #langSelect (change)="translate.use(langSelect.value)">
+        <option *ngFor="let lang of translate.getLangs()" [value]="lang"
+                [selected]="lang === translate.currentLang"> {{ lang }}</option>
+      </select>
+    </label>
+    </span>
+
+
   </div>
+
 </nav>
